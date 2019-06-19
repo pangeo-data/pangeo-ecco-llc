@@ -1,2 +1,2 @@
 fsspec
-git+git://github.com/rabernat/xmitgcm.git@llcreader#egg=xmitgcm
+git+git://github.com/rabernat/xmitgcm.git@master#egg=xmitgcm
